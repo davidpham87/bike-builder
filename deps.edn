@@ -1,0 +1,4 @@
+{:paths ["src"]
+ :deps
+ {io.github.nextjournal/clerk {:mvn/version "0.14.919"}
+  datascript/datascript {:mvn/version "1.5.0"}}}
